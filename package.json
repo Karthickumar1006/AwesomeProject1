@@ -11,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@karthickumarelumalai/rn-basic-setup": "^1.0.12",
     "react": "18.3.1",
     "react-native": "0.75.2"
   },
